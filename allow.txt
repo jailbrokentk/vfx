@@ -27,5 +27,3 @@
 @@||stackoverflow.com^
 @@||discord.com^
 @@||discord.gg^
-@@||cybercore.vn^
-@@||etab.vn^
